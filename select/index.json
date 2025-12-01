@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "本能",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T08:51:25.464634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_本能_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_本能_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_本能_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honnō [本能]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_Honnō_[本能]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honnō [本能]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/05_Honnō_[本能]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "Ling Kai",
+      "has_synced": true,
+      "path": "select/06_本能_Ling_Kai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "Ruth Kueo",
+      "has_synced": true,
+      "path": "select/07_本能_Ruth_Kueo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "本能 - 下克上エクスタシー '00",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_本能_-_下克上エクスタシー_'00_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "exist†trace",
+      "has_synced": false,
+      "path": "select/09_本能_exist†trace.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/10_本能_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "本能 - Honnou -Instinct-",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/11_本能_-_Honnou_-Instinct-_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "本能 (下克上エクスタシー '00)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/12_本能_(下克上エクスタシー_'00)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/13_本能_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "本能 - Single Version",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/14_本能_-_Single_Version_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "本能",
+      "artist": "Ringo Sheena (椎名林檎)",
+      "has_synced": true,
+      "path": "select/15_本能_Ringo_Sheena_(椎名林檎).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本能",
+      "artist": "exist trace",
+      "has_synced": false,
+      "path": "select/pl_01_本能_exist_trace.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "本能",
+      "artist": "exist trace",
+      "has_synced": false,
+      "path": "select/pl_02_本能_exist_trace.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "本能",
+      "artist": "exist trace",
+      "has_synced": false,
+      "path": "select/pl_03_本能_exist_trace.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "本能のDOUBT",
+      "artist": "exist trace",
+      "has_synced": false,
+      "path": "select/pl_04_本能のDOUBT_exist_trace.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "本能寺の変",
+      "artist": "exist trace",
+      "has_synced": false,
+      "path": "select/pl_05_本能寺の変_exist_trace.txt"
+    }
+  ]
+}
